@@ -4,10 +4,11 @@ RebFit is my personal project. I've built it from scratch. It is now available o
 
 RebFit on AppStore: https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811
 
-Binding Patterns: MVC, MVVM.
-Backend: Firebase, Custom SDK.
-Frameworks: UIKit, SwiftUI, Vimeo, StoreKit, UI Tests, Unit Tests, CoreData, MapKit, AVKit, CoreLocation, CoreMotion, Local Notifications, Push Notifications
-API's: Apple Music API, Vimeo API.
+* Binding Patterns: MVC, MVVM.
+* Frontend: Swift
+* Backend: NodeJS, Google Cloud Platform(GCP), Firebase.
+* Frameworks: UIKit, SwiftUI, StoreKit, CoreData, MapKit, AVKit, CoreLocation, CoreMotion, Local Notifications, Push Notifications
+* API's: Apple Music API, Vimeo API.
 
 RebFit is a fitness application, that covers all spectrums of fit lifestyle. Be it weightlifting, calishtenics or even running, RebFit covers users needs.
 
