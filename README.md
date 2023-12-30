@@ -1,6 +1,6 @@
 # RebFit
 
-RebFit is my personal project. I've built it from scratch. It is now available on AppStore
+### RebFit is my personal project. I've built it from scratch. It is now available on AppStore
 
 RebFit on AppStore: https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811
 
@@ -10,9 +10,7 @@ RebFit on AppStore: https://apps.apple.com/us/app/rebfit-home-gym-workouts/id644
 * Frameworks: UIKit, SwiftUI, StoreKit, CoreData, MapKit, AVKit, CoreLocation, CoreMotion, Local Notifications, Push Notifications
 * API's: Apple Music API, Vimeo API.
 
-RebFit is a fitness application, that covers all spectrums of fit lifestyle. Be it weightlifting, calishtenics or even running, RebFit covers users needs.
-
-Training Plans.
+### RebFit is a fitness application, that covers all spectrums of fit lifestyle. Be it weightlifting, calishtenics or even running, RebFit covers users needs.
 
 Training Plans as well as all the information in text-format is stored on google firebase servers. User is given 3 types of training plans: 1. Build Muscle, 2. Lose Weight, 3. General Plans.
 
