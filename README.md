@@ -24,8 +24,7 @@
 * API's: Apple Music API, Vimeo API.
 
 <details>
-<summary>Images of the running app</summary>
-### RebFit is a fitness application, that covers all spectrums of fit lifestyle. Be it weightlifting, calishtenics or even running, RebFit covers users needs.
+<summary>📸 Images of the running app</summary>
 
 ## Training Plans as well as all the information in text-format is stored on google firebase servers. User is given 3 types of training plans: 1. Build Muscle, 2. Lose Weight, 3. General Plans. For users who wants to test the app there are a dozen of free workouts.
 
