@@ -26,7 +26,7 @@
 <details>
 <summary>
   
-  #### 📸 - Images of the running app
+  ## 📸 - Images of the running app
   
 </summary>
 
