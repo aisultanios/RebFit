@@ -23,6 +23,14 @@
 * Frameworks: `UIKit`, `SwiftUI`, `StoreKit`, `CoreData`, `MapKit`, `AVFoundation`, `CoreLocation`, `CoreMotion`, `Push Notifications`
 * API's: `Apple Music API`, `Vimeo API`
 
+## 🔜 Upcoming Features:
+
+- Google Sign-in (Authorization).
+- Facebook Sign-in (Authorization).
+- Live action for the running sessions.
+- New widgets to track your progress.
+- New layout for the user profile page.
+
 <details>
 <summary>
   
