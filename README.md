@@ -26,7 +26,7 @@
 <details>
 <summary>📸 Images of the running app</summary>
 
-## Training Plans as well as all the information in text-format is stored on google firebase servers. User is given 3 types of training plans: 1. Build Muscle, 2. Lose Weight, 3. General Plans. For users who wants to test the app there are a dozen of free workouts.
+## Training Plans as well as all the information in text-format are stored on Google Firebase and are accessed through a JavaScript Backend. Users are given 3 types of training plans: 1. Build Muscle, 2. Lose Weight, 3. General Plans. For users who wants to test the app there are a dozen of free workouts.
 
 ![First Page Device](https://user-images.githubusercontent.com/36818367/207736014-bfef936e-a89f-4115-a786-71697d93c250.jpg)
 
