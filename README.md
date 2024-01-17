@@ -19,7 +19,7 @@
 
 * Binding Patterns: 'MVC', 'MVVM'
 * Frontend: 'Swift'
-* Backend: 'NodeJS', 'Google Cloud Platform(GCP)', 'Firebase'
+* Backend: 'NodeJS', `Google Cloud Platform(GCP)`, 'Firebase'
 * Frameworks: 'UIKit', 'SwiftUI', 'StoreKit', 'CoreData', 'MapKit', 'AVKit', 'CoreLocation', 'CoreMotion', 'Push Notifications'
 * API's: 'Apple Music API', 'Vimeo API'
 
