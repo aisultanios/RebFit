@@ -20,11 +20,11 @@
 * Binding Patterns: `MVC`, `MVVM`
 * Frontend: `Swift`
 * Backend: `NodeJS`, `Google Cloud Platform(GCP)`, `Firebase`
-* Frameworks: `UIKit`, `SwiftUI`, 'StoreKit', 'CoreData', 'MapKit', 'AVKit', 'CoreLocation', 'CoreMotion', 'Push Notifications'
-* API's: 'Apple Music API', 'Vimeo API'
+* Frameworks: `UIKit`, `SwiftUI`, `StoreKit`, `CoreData`, `MapKit`, `AVFoundation`, `CoreLocation`, `CoreMotion`, `Push Notifications`
+* API's: `Apple Music API`, `Vimeo API`
 
 <details>
-<summary>📸 **- Images of the running app ** </summary>
+<summary>**📸 - Images of the running app**</summary>
 
 ### Training Plans as well as all the information in text-format are stored on Google Firebase and are accessed through a JavaScript Backend. Users are given 3 types of training plans: 1. Build Muscle, 2. Lose Weight, 3. General Plans. For users who wants to test the app there are a dozen of free workouts.
 
