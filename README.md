@@ -17,11 +17,11 @@
 
 ## 🛠️ Technologies:
 
-* Binding Patterns: MVC, MVVM.
-* Frontend: Swift
-* Backend: NodeJS, Google Cloud Platform(GCP), Firebase.
-* Frameworks: UIKit, SwiftUI, StoreKit, CoreData, MapKit, AVKit, CoreLocation, CoreMotion, Local Notifications, Push Notifications
-* API's: Apple Music API, Vimeo API.
+* Binding Patterns: 'MVC', 'MVVM'
+* Frontend: 'Swift'
+* Backend: 'NodeJS', 'Google Cloud Platform(GCP)', 'Firebase'
+* Frameworks: 'UIKit', 'SwiftUI', 'StoreKit', 'CoreData', 'MapKit', 'AVKit', 'CoreLocation', 'CoreMotion', 'Push Notifications'
+* API's: 'Apple Music API', 'Vimeo API'
 
 <details>
 <summary>📸 **- Images of the running app ** </summary>
