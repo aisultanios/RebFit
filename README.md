@@ -30,14 +30,9 @@
 - Live action for the running sessions.
 - New widgets to track your progress.
 - New layout for the user profile page.
-
-<details>
-<summary>
   
-  ## 📸 - Images of the app
+## 📸 - Images of the app
   
-</summary>
-
 ### Training Plans as well as all the information in text-format are stored on Google Firebase and are accessed through a JavaScript Backend. Users are given 3 types of training plans: 1. Build Muscle, 2. Lose Weight, 3. General Plans. For users who wants to test the app there are a dozen of free workouts.
 
 ![First Page Device](https://user-images.githubusercontent.com/36818367/207736014-bfef936e-a89f-4115-a786-71697d93c250.jpg)
@@ -60,7 +55,6 @@
 
 
 ## RebFit is available [on AppStore](https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811)
-</details>
 
 
 
