@@ -41,11 +41,44 @@ https://github.com/AisultanAskarov/RebFit/assets/36818367/c94cf065-fd99-40d9-93e
 
 https://github.com/AisultanAskarov/RebFit/assets/36818367/0f108104-7984-4000-85bd-5e27cc357aee
 
-## Training Plans, Workout, and User Profile
+## Training Plans and Workouts
+
+https://github.com/AisultanAskarov/RebFit/assets/36818367/f87d7a29-d8cb-470c-868d-0b3046f4e7eb
+
+https://github.com/AisultanAskarov/RebFit/assets/36818367/89afa480-8603-44fa-947d-105a6bca26bb
+
+https://github.com/AisultanAskarov/RebFit/assets/36818367/67d76ba6-ddd8-4560-9edb-43aac336282a
+
+https://github.com/AisultanAskarov/RebFit/assets/36818367/9b464792-b47a-44b8-9f68-1eead18bf50e
+
+## User Profile
+
+https://github.com/AisultanAskarov/RebFit/assets/36818367/75a09487-28ee-4a3b-98b0-c2dcc643dc5a
+
+## Running Sessions
+
+https://github.com/AisultanAskarov/RebFit/assets/36818367/c024d56d-53e4-402a-a64f-2837d8ce558b
+
+https://github.com/AisultanAskarov/RebFit/assets/36818367/6f9fbf90-554e-412b-a583-61f48c2ae394
+
+https://github.com/AisultanAskarov/RebFit/assets/36818367/a29f4ccd-9cde-4bd4-b29a-c8c19b83dfbe
+
+https://github.com/AisultanAskarov/RebFit/assets/36818367/80e4c67c-ad19-4720-8e3e-ddd879874ad2
+
+## Exercise Instruction Videos
+
+https://github.com/AisultanAskarov/RebFit/assets/36818367/b0138ae1-7e5b-47a0-a636-74128e3b2efd
+
+https://github.com/AisultanAskarov/RebFit/assets/36818367/9099536a-f441-4f6f-8fd8-4edf8521ea75
 
 
 
-## RebFit is available [on AppStore](https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811)
+
+
+
+
+
+
 
 
 
