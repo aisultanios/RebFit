@@ -31,15 +31,17 @@
 - New widgets to track your progress.
 - New layout for the user profile page.
   
-# 📸 - Images of the app
+## 📸 - Video demonstration of the app
   
-## Registration and onboarding process
+### Registration and onboarding process
 
 https://github.com/AisultanAskarov/RebFit/assets/36818367/9441d704-a9e2-4f01-bc68-979b67885786
 
 https://github.com/AisultanAskarov/RebFit/assets/36818367/c94cf065-fd99-40d9-93e5-04972d8b74c3
 
 https://github.com/AisultanAskarov/RebFit/assets/36818367/0f108104-7984-4000-85bd-5e27cc357aee
+
+## Training Plans, Workout, and User Profile
 
 
 
