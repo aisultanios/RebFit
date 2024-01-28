@@ -35,8 +35,11 @@
   
 ## Registration and onboarding process
 
-![Registration](https://github.com/AisultanAskarov/RebFit/assets/36818367/da356769-0e90-4d85-9cf2-485597f6f616)
-![Quiz](https://github.com/AisultanAskarov/RebFit/assets/36818367/4b761072-65ea-4796-b478-ea4fdb45223e)
+https://github.com/AisultanAskarov/RebFit/assets/36818367/9441d704-a9e2-4f01-bc68-979b67885786
+
+https://github.com/AisultanAskarov/RebFit/assets/36818367/c94cf065-fd99-40d9-93e5-04972d8b74c3
+
+https://github.com/AisultanAskarov/RebFit/assets/36818367/0f108104-7984-4000-85bd-5e27cc357aee
 
 
 
