@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://github.com/AisultanAskarov/RebFit/assets/36818367/57120f32-4a3f-4a4b-9901-cf8aefd941c3 width="200" height="200">
+<img src=https://github.com/AisultanAskarov/RebFit/assets/36818367/6fbe7101-8439-481f-bf49-d1cf52937e6b width="200" height="200">
 </p>
 
 # RebFit - Home & Gym Workouts
