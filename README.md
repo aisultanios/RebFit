@@ -1,3 +1,7 @@
+<p align="center">
+<img src=https://github.com/AisultanAskarov/RebFit/assets/36818367/257719ce-1437-4499-9487-0a86a2aa7a10 width="200" height="200">
+</p>
+
 # RebFit - Home & Gym Workouts
 
 #### RebFit is an iOS fitness app that I've built with Swift, JavaScript, Firebase, and many other technologies. It packs such features as 1-on-1 video instructions, training plan progress tracking tool, running map to track your cardio sessions, media player to listen to music while running, and more.
