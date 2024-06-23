@@ -7,6 +7,7 @@
 #### RebFit is an iOS fitness app that I've built with Swift, JavaScript, Firebase, and many other technologies. It packs such features as 1-on-1 video instructions, training plan progress tracking tool, running map to track your cardio sessions, media player to listen to music while running, and more.
 
 #### RebFit is available [on AppStore](https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811)
+<img width="684" alt="Снимок экрана 2024-06-23 в 09 51 20" src="https://github.com/AisultanAskarov/RebFit/assets/36818367/b048e863-d272-4c14-b90a-3608e56ca97b">
 
 ## ⭐️ Features:
 
