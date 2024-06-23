@@ -4,9 +4,7 @@
 
 # RebFit - Home & Gym Workouts
 
-RebFit is an iOS fitness app that I've built with Swift, JS(NodeJS), Firebase, and many other technologies. With features like 1-on-1 video instructions, you can get personalized and professional guidance. The training plan progress tracking tool helps you stay on top of your goals and monitor your improvements over time. The running map feature allows you to track your cardio sessions in real time, while the integrated media player lets you enjoy your favorite music or podcasts during your workouts. Additionally, RebFit includes customizable training plans, progress charts, and social sharing options to keep you motivated and connected with the fitness community.
-
-
+RebFit is an iOS fitness app that I’ve built using Swift, NodeJS, Firebase, and various other technologies. It offers personalized and professional guidance through 1-on-1 video instructions. The training plan progress tracking tool helps you stay on top of your goals and monitor your improvements over time. The running map feature allows you to track your cardio sessions in real time, while the integrated media player lets you enjoy your favorite music or podcasts during your workouts. Additionally, RebFit includes customizable training plans, progress charts, and social sharing options to keep you motivated and connected with the fitness community.
 
 #### RebFit is available [on AppStore](https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811)
 
@@ -38,7 +36,7 @@ RebFit is an iOS fitness app that I've built with Swift, JS(NodeJS), Firebase, a
 
 ## 💡 Idea
 
-The idea to develop RebFit came to me during the global pandemic when gym closures and lockdowns made it difficult to maintain a regular fitness routine. I realized that many people, including myself, needed a versatile solution that could provide effective workouts at home or in the gym. I wanted to create an app that offers personalized fitness plans and real-time progress tracking, catering to various fitness levels and goals. RebFit was born from the desire to make fitness accessible, enjoyable, and motivating, helping users stay on track with their health and wellness journeys while showcasing my expertise in app development and project management.
+The idea to develop RebFit came to me during the global pandemic when gym closures and lockdowns made it difficult to maintain a regular fitness routine. I realized that many people, including myself, needed a versatile solution that could provide effective workouts at home or in the gym. I wanted to create an app that offers personalized fitness plans and real-time progress tracking, catering to various fitness levels and goals. RebFit was born from the desire to make fitness accessible, enjoyable, and motivating, helping users stay on track with their health and wellness journeys while showcasing my expertise in app development and project management on a large-scale apps.
 
 ## 📸 - App Images
 
