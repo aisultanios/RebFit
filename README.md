@@ -10,21 +10,22 @@ RebFit is an iOS fitness app I built with Swift, JavaScript, Firebase, and many 
 
 ## ⭐️ Features:
 
-* Sign in with Apple Id and Email
-* User Profile: Email, name, profile picture, etc.
-* Training Plans: For athletes of any level (Beginner, Intermediate, Advanced)
-* Muscle Groups: Sections with individual focus areas (Chest, Back, Legs, Shoulder, etc.)
-* Running Sessions: Custom goal targets with voice notifications upon reaching goals
-* Notifications: Set reminders for upcoming workouts
-* Social Sharing: Post workout stats to social media platforms with RebFit's custom sticker
+- Sign in with Apple Id and Email
+- User Profile: Email, name, profile picture, etc.
+- Training Plans: For athletes of any level (Beginner, Intermediate, Advanced)
+- Exercise Videos: Sections with individual focus areas (Chest, Back, Legs, Shoulder, etc.)
+- Running Sessions: Custom running map with goal targets and voice notifications upon reaching your goal
+- Workout View: Custom workout view with Video Instructions, Set and Reps input, and on-demand tips
+- Notifications: Set reminders for upcoming workouts
+- Social Sharing: Post workout stats to social media platforms with RebFit's custom sticker
 
 ## 🛠️ Technologies:
 
-* Binding Patterns: `MVC`, `MVVM`, `Clean Architecture`
-* Frontend: `Swift`
-* Backend: `NodeJS`, `Google Cloud Platform(GCP)`, `Firebase`
-* Frameworks: `UIKit`, `SwiftUI`, `StoreKit`, `CoreData`, `MapKit`, `AVFoundation`, `CoreLocation`, `CoreMotion`, `Push Notifications`
-* API's: `Apple Music API`, `Vimeo API`
+- Binding Patterns: `MVC`, `MVVM`, `Clean Architecture`
+- Frontend: `Swift`
+- Backend: `NodeJS`, `Google Cloud Platform(GCP)`, `Firebase`
+- Frameworks: `UIKit`, `SwiftUI`, `StoreKit`, `CoreData`, `MapKit`, `AVFoundation`, `CoreLocation`, `CoreMotion`, `Push Notifications`
+- API's: `Apple Music API`, `Vimeo API`
 
 ## 🔜 Upcoming Features:
 
