@@ -4,24 +4,23 @@
 
 # RebFit - Home & Gym Workouts
 
-#### RebFit is an iOS fitness app that I've built with Swift, JavaScript, Firebase, and many other technologies. It packs such features as 1-on-1 video instructions, training plan progress tracking tool, running map to track your cardio sessions, media player to listen to music while running, and more.
+RebFit is an iOS fitness app I built with Swift, JavaScript, Firebase, and many other technologies. It includes features such as 1-on-1 video instructions, a training plan progress tracking tool, a running map to track cardio sessions, a media player to listen to music while running, and more.
 
 #### RebFit is available [on AppStore](https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811)
 
 ## ⭐️ Features:
 
-* Sign in with Apple and Email.
-* User profile with email, name, profile picture, etc.
-* Complete break-down of training plans and running sessions progress.
-* Muscle groups are broke in sections with an individual focus areas.
-* Training plans for athletes of any level. Beginner/Intermediate/Advanced.
-* Running sessions with custom goal targets. User gets voice notifications once they reach their goal for the session.
-* Set notifications for the upcoming workouts.
-* Post your workout stats to social media platforms with RebFit's custom sticker.
+* Sign in with Apple Id and Email
+* User Profile: Email, name, profile picture, etc.
+* Training Plans: For athletes of any level (Beginner, Intermediate, Advanced)
+* Muscle Groups: Sections with individual focus areas (Chest, Back, Legs, Shoulder, etc.)
+* Running Sessions: Custom goal targets with voice notifications upon reaching goals
+* Notifications: Set reminders for upcoming workouts
+* Social Sharing: Post workout stats to social media platforms with RebFit's custom sticker
 
 ## 🛠️ Technologies:
 
-* Binding Patterns: `MVC`, `MVVM`
+* Binding Patterns: `MVC`, `MVVM`, `Clean Architecture`
 * Frontend: `Swift`
 * Backend: `NodeJS`, `Google Cloud Platform(GCP)`, `Firebase`
 * Frameworks: `UIKit`, `SwiftUI`, `StoreKit`, `CoreData`, `MapKit`, `AVFoundation`, `CoreLocation`, `CoreMotion`, `Push Notifications`
@@ -29,11 +28,14 @@
 
 ## 🔜 Upcoming Features:
 
-- Google Sign-in (Authorization).
-- Facebook Sign-in (Authorization).
-- Live action for the running sessions.
-- New widgets to track your progress.
-- New layout for the user profile page.
+- New Sign-in Method: Google Sign-in
+- Live Action for Running Sessions
+- New Widgets: For quick stats overview
+- New Layout: User profile page
+
+## 💡 Idea
+
+The idea for RebFit came to me during the global pandemic when gym closures and lockdowns made it difficult to maintain a regular fitness routine. I realized that many people, including myself, needed a versatile solution that could provide effective workouts at home or in the gym. I wanted to create an app that offers personalized fitness plans and real-time progress tracking, catering to various fitness levels and goals. RebFit was born from the desire to make fitness accessible, enjoyable, and motivating, helping users stay on track with their health and wellness journeys while showcasing my expertise in app development and project management.
 
 ## 📸 - App Images
 
