@@ -4,7 +4,9 @@
 
 # RebFit - Home & Gym Workouts
 
-RebFit is an iOS fitness app I built with Swift, JavaScript, Firebase, and many other technologies. It includes features such as 1-on-1 video instructions, a training plan progress tracking tool, a running map to track cardio sessions, a media player to listen to music while running, and more.
+RebFit is an iOS fitness app that I've built with Swift, JS(NodeJS), Firebase, and many other technologies. With features like 1-on-1 video instructions, you can get personalized and professional guidance. The training plan progress tracking tool helps you stay on top of your goals and monitor your improvements over time. The running map feature allows you to track your cardio sessions in real time, while the integrated media player lets you enjoy your favorite music or podcasts during your workouts. Additionally, RebFit includes customizable training plans, progress charts, and social sharing options to keep you motivated and connected with the fitness community.
+
+
 
 #### RebFit is available [on AppStore](https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811)
 
