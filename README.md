@@ -8,6 +8,8 @@ RebFit is an iOS fitness app that I’ve built using Swift, NodeJS, Firebase, an
 
 #### RebFit is available [on AppStore](https://apps.apple.com/us/app/rebfit-home-gym-workouts/id6443868811)
 
+<img width="1182" alt="Снимок экрана 2024-06-23 в 09 54 56" src="https://github.com/AisultanAskarov/RebFit/assets/36818367/127f7399-740b-4863-8439-04ffbb4f22b4">
+
 ## ⭐️ Features:
 
 - Sign in with Apple Id and Email
@@ -37,10 +39,6 @@ RebFit is an iOS fitness app that I’ve built using Swift, NodeJS, Firebase, an
 ## 💡 Idea
 
 The idea to develop RebFit came to me during the global pandemic when gym closures and lockdowns made it difficult to maintain a regular fitness routine. I realized that many people, including myself, needed a versatile solution that could provide effective workouts at home or in the gym. I wanted to create an app that offers personalized fitness plans and real-time progress tracking, catering to various fitness levels and goals. RebFit was born from the desire to make fitness accessible, enjoyable, and motivating, helping users stay on track with their health and wellness journeys while showcasing my expertise in app development and project management on a large-scale apps.
-
-## 📸 - App Images
-
-<img width="1182" alt="Снимок экрана 2024-06-23 в 09 54 56" src="https://github.com/AisultanAskarov/RebFit/assets/36818367/127f7399-740b-4863-8439-04ffbb4f22b4">
   
 ## 📹 - Video Demonstration of The App
   
